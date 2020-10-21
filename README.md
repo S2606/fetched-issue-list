@@ -8,7 +8,7 @@ I believe that in order to work efficiently, you must me well-versed with tools 
 ## Django
 
 - https://github.com/django/django/pull/13429
-- https://code.djangoproject.com/ticket/32108(got fixed)
+- https://code.djangoproject.com/ticket/32108 (got fixed)
 
 ## VS Code
 
