@@ -13,3 +13,7 @@ I believe that in order to work efficiently, you must me well-versed with tools 
 ## VS Code
 
 - https://github.com/microsoft/vscode/issues/108068
+
+## Sequelize
+
+- https://github.com/sequelize/sequelize/issues/12784
