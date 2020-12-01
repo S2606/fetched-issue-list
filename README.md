@@ -17,3 +17,7 @@ I believe that in order to work efficiently, you must me well-versed with tools 
 ## Sequelize
 
 - https://github.com/sequelize/sequelize/issues/12784
+
+## Postman
+
+- https://github.com/postmanlabs/postman-app-support/issues/9333 (Can be a feature-request as well)
